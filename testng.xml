@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="rest-assured-api-automation" parallel="tests">
+    <test name="run-all-tests">
+        <classes>
+            <class name="test.TestUserManagement"/>
+        </classes>
+    </test>
+</suite>

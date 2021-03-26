@@ -1,0 +1,25 @@
+{
+  "addUser": {
+    "id": 1,
+    "name": "madmax",
+    "DateOfBirth": "2020-05-23T",
+    "HouseNumber": "H-56",
+    "aadharNumber": 32345,
+    "HomeAddressLine1": "Mg Road-2",
+    "HomeAddressLine2": "12th Cross-2",
+    "HomeLandmark": "Near Airport",
+    "OfficeBuildingNumber": 3,
+    "OfficeAddressLine1": "XYZ-2",
+    "OfficeAddressLine2": "Airport",
+    "landMark": "Near t signal",
+    "cardId": "EMP-002",
+    "OfficePin": 759437777
+  },
+  "updateUser": {
+    "name": "sadmax",
+    "dob": "1989-02-22T"
+  },
+  "deleteUser": {
+    "userId": 14
+  }
+}
